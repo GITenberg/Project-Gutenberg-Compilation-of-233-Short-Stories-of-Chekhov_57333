@@ -1,0 +1,30 @@
+_repo: Project-Gutenberg-Compilation-of-233-Short-Stories-of-Chekhov_57333
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chekhov, Anton Pavlovich
+    aliases:
+    - Chekov, Anton Pavlovich
+    - Tchekhov, Anton
+    - Tshehov, Anton
+    - Чехов, Антон Павлович
+    - Tchekhoff, Anton
+    - Tschechow, Anton
+    birthdate: 1860
+    deathdate: 1904
+    gutenberg_agent_id: '708'
+    url: http://www.gutenberg.org/2009/agents/708
+    wikipedia: http://en.wikipedia.org/wiki/Anton_Chekhov
+description: ''
+gutenberg_issued: '2018-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57333'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Project Gutenberg Compilation of 233 Short Stories of Chekhov
+url: http://www.gutenberg.org/ebooks/57333
