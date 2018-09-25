@@ -1,5 +1,8 @@
 _repo: Project-Gutenberg-Compilation-of-233-Short-Stories-of-Chekhov_57333
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Chekhov, Anton Pavlovich
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/708
     wikipedia: http://en.wikipedia.org/wiki/Anton_Chekhov
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57333#Project-Gutenberg-Compilation-of-233-Short-Stories-of-Chekhov
 gutenberg_issued: '2018-06-15'
 gutenberg_type: Text
 identifiers:
